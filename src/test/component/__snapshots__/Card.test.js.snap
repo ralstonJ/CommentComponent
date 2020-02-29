@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card should match the snapshot with all data passed in correctly 1`] = `
+<div
+  className="card"
+>
+  <div>
+    <img
+      className="card-profile-img"
+      height={40}
+      src="logo.svg"
+      width={40}
+    />
+  </div>
+  <div
+    className="card-content"
+  >
+    <div
+      className="card-header"
+    >
+      Brad
+      <span
+        className="card-type"
+      >
+        Author
+      </span>
+       
+      2 minutes
+       ago
+    </div>
+    <div
+      className="card-message"
+    >
+      So what the German automaker is likely to focus on today is the bigger picture. This will be the first time we see the Taycan free from any prototype bodywork.
+    </div>
+    <div
+      className="card-footer"
+    >
+      <button
+        className="btn"
+      >
+        REPLY
+      </button>
+      <button
+        className="btn"
+      >
+        21
+         
+        REPLIES
+      </button>
+      <button
+        className="btn"
+      >
+        <MdExpandLess
+          className="vote-icon"
+        />
+        <span
+          className="txt-vote"
+        >
+          123
+        </span>
+      </button>
+      <button
+        className="btn"
+      >
+        <MdExpandMore
+          className="vote-icon"
+        />
+        <span
+          className="txt-vote"
+        >
+          0
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
